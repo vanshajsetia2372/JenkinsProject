@@ -6,7 +6,7 @@ public class GitPractice
 	{
 		for(int i=0;i<10;i++)
 		{
-			System.out.println("The number in the program: "+i);
+			System.out.println("The number in the program is: "+i);
 		}
 	}
 }
